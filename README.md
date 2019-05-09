@@ -1,4 +1,4 @@
-# PanicBomber
+# Panic Bomber
 #Link To Demo: https://devpost.com/software/panic-bomber-zepyno
 My first javaFx game made during the Hello World hackathon
 
